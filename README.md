@@ -10,12 +10,12 @@ Visual assets generated on Replicate for a one-minute trailer for **ink**, a pro
 
 All repository files are below 12,000,000 bytes. Git LFS is not used. No API credentials are included.
 
-## Models and costs
+## Models and costs — batch 1
 
 Model selection and prices were checked on Replicate on 16 October 2026:
 
 - [Runway Gen-4.5](https://replicate.com/runwayml/gen-4.5): practical and macro sequences, $0.12 per output second. Native source resolution is recorded per clip; delivery uses Lanczos scaling to 1080p.
-- [Kling Video 3.0 Pro](https://replicate.com/kwaivgi/kling-v3-video): selected stylized environments and the core, native 1080p without audio, $0.224 per output second. The model does not expose a seed input.
+- [Kling Video 3.0 Pro](https://replicate.com/kwaivgi/kling-v3-video): selected stylized environments, the core, and practical replacements, native 1080p without audio, $0.224 per output second. The model does not expose a seed input.
 - [FLUX.2 Max](https://replicate.com/black-forest-labs/flux-2-max): stills, $0.04 per run plus $0.03 per output megapixel. Still estimates conservatively round output megapixels up to a whole number.
 
 Costs in the manifest are estimates based on published tariffs, before taxes or credits; they are not a retrieved invoice. Any billed rejected generations are included in the batch ledger. All predictions use the official-model endpoint, `POST /v1/models/{owner}/{name}/predictions`.
@@ -36,3 +36,5 @@ Generated imagery is probabilistic. See `RELAY.md` for the visual inspection and
 ## Batch 2 — natural history and darkfield microscopy
 
 `B01`–`B09` are generated natural-history/microscopy illustrations; `P01`–`P04` are Pexels stock excerpts. Batch 1 is retained. `manifest.json` is cumulative and includes a `batch` field. See `RELAY.md` for current delivery status, `costs/` for separate batch budgets, and `STOCK-CREDITS.md` for source licences. `thumbs/contact-sheet.jpg` includes all delivered assets; separate sheets preserve each batch.
+
+Both batches are complete: 25 clips and six stills, 31 assets in total. Batch 1 is estimated at US$13.50 and batch 2 at US$7.12, including rejected successful generations; combined estimate US$20.62, before taxes or credits. Batch 2 uses Runway Gen-4.5, with Kling Video 3.0 Pro for the Physarum replacement. No failed or skipped assets remain; B02 fine-vein pruning is approximate and P03 has portrait side margins.
