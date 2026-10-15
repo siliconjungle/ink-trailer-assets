@@ -443,6 +443,22 @@
   },
   {
     "batch": 2,
+    "id": "B02",
+    "file": "clips/B02-physarum.mp4",
+    "kind": "video",
+    "model": "kwaivgi/kling-v3-video",
+    "prompt": "Locked top-down macro studio timelapse of yellow Physarum slime mould growing on a wet jet-black surface. At the start a small fine yellow living web touches one oat flake. Over the first three seconds, thin branching yellow tubes extend outward across the surface and connect several scattered pale oat flakes. During the last two seconds, the connected network remains spread out at full width while redundant fine strands fade and the main connecting tubes become thicker. The organism never retracts into a central ball; endpoints stay attached to oat flakes. Fine lacy biological network, realistic granular moist texture, no tentacles. Pure black background, amber #FF6A1A side illumination, subtle cold teal #2EF2D0 reflections, bone highlights. Photographic natural history, one continuous five-second shot. No text, logo, watermark, UI, labels, numbers, faces, fantasy, cyberpunk or electronics.",
+    "seed": null,
+    "seconds": 5.0,
+    "width": 1920,
+    "height": 1080,
+    "bytes": 1063767,
+    "cost_usd": 1.7200000000000002,
+    "prediction_id": "k1a03p66h5rmt0d186wt5x4nag",
+    "notes": "Source 1920x1080; H.264 CRF 22, yuv420p, 1920x1080, 24 fps, audio stripped, faststart. AI-generated natural-history illustration; not a scientific observation or species-identification reference. Cost is a published-tariff estimate, not an invoice. Includes rejected generation cost. Initial network retracted into a central lump rather than spreading and retaining linked endpoints. Regenerated once with explicit growth/pruning timing and Kling 3.0 Pro. Visual limitation after the permitted single retry: coarse vein growth is shown; fine-web pruning is approximate."
+  },
+  {
+    "batch": 2,
     "id": "B03",
     "file": "clips/B03-hyphae.mp4",
     "kind": "video",
@@ -504,6 +520,22 @@
     "cost_usd": 0.6,
     "prediction_id": "61akefp53xrmr0d186way6r7w4",
     "notes": "Source 1280x720; H.264 CRF 22, yuv420p, 1920x1080, 24 fps, audio stripped, faststart. AI-generated natural-history illustration; not a scientific observation or species-identification reference. Cost is a published-tariff estimate, not an invoice."
+  },
+  {
+    "batch": 2,
+    "id": "B07",
+    "file": "clips/B07-murmuration.mp4",
+    "kind": "video",
+    "model": "runwayml/gen-4.5",
+    "prompt": "Extreme long shot of a distant starling murmuration at dusk, filmed by a completely locked-off camera with a wide lens. Ten thousand tiny far-away black bird specks form one dense dark flowing cloud in the middle distance. The flock behaves as a single coherent fluid-like mass, slowly folding into a ribbon and swelling outward together; individual birds are barely resolvable dots. All birds stay far away and uniformly tiny; none approach the camera. The flock occupies only the middle third of the frame, surrounded by ample empty sky. Deep cold teal #2EF2D0 fading into dark amber #FF6A1A dusk sky, restrained low exposure and high contrast, natural-history documentary photography. One continuous five-second shot. No buildings, people, close birds, large foreground birds, text, logos, signature, watermarks, labels, faces, UI or electronics.",
+    "seed": 2026102707,
+    "seconds": 5.0,
+    "width": 1920,
+    "height": 1080,
+    "bytes": 2083233,
+    "cost_usd": 1.2,
+    "prediction_id": "qfhn20nkpsrmy0d186xrz0ykvg",
+    "notes": "Source 1280x720; H.264 CRF 22, yuv420p, 1920x1080, 24 fps, audio stripped, faststart. AI-generated natural-history illustration; not a scientific observation or species-identification reference. Cost is a published-tariff estimate, not an invoice. Includes rejected generation cost. First render showed relatively close separate birds rather than a distant coherent murmuration. Regenerated once with explicit tiny-bird scale, wide framing, and collective cloud motion."
   },
   {
     "batch": 2,
