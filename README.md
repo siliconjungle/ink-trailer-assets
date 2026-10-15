@@ -32,3 +32,7 @@ ffmpeg -i source.mp4 -map 0:v:0 -an \
 ```
 
 Generated imagery is probabilistic. See `RELAY.md` for the visual inspection and any limitations specific to this batch.
+
+## Batch 2 — natural history and darkfield microscopy
+
+`B01`–`B09` are generated natural-history/microscopy illustrations; `P01`–`P04` are Pexels stock excerpts. Batch 1 is retained. `manifest.json` is cumulative and includes a `batch` field. See `RELAY.md` for current delivery status, `costs/` for separate batch budgets, and `STOCK-CREDITS.md` for source licences. `thumbs/contact-sheet.jpg` includes all delivered assets; separate sheets preserve each batch.

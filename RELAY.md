@@ -1,5 +1,17 @@
 # Relay log
 
+## Batch 2 — in progress — 16 October 2026
+
+- Delivered so far: B01, B03, B04, B05, B06, B08, B09, P01, P02, P03, P04.
+- Pending: B02, B07. Failed/skipped: none.
+- Base commit SHA before this batch update: `df05a16d62452622ad86d4edd65dcab33d5544e9`. The completed batch's asset commit will be recorded after commit.
+- Estimated batch generation cost including rejected generations and pending render reservations: **US$7.12**. Pexels downloads cost $0. See `costs/batch-2.json`; this is not a retrieved invoice.
+- Direction: photographic darkfield microscopy and natural history on black, with amber/teal light and bone highlights. No cyberpunk or anime direction is used for the generated batch 2 prompts.
+- Delivery: five-second silent H.264/yuv420p 1920×1080 clips, 24 fps, CRF 22, faststart, each below 12 MB, with 960px middle-frame previews. Batch and cumulative contact sheets are included.
+- Stock licence: P01–P04 source pages and the Pexels License were checked; source, creator, licence URL and terms summary are recorded per asset. P01/P02/P03 use the highest-resolution exposed download (4K); P04's source is 1080p. P03 was portrait and is fitted within the landscape frame with dark side margins. Centered five-second excerpts are used. See `STOCK-CREDITS.md`.
+- Regenerations: B02's original retracted instead of preserving an extended network; B07's original showed close separate birds rather than a distant coherent murmuration. Each was regenerated once. Rejected originals are excluded; their cost is included.
+- Visual QA: start/middle/end samples inspected for delivered assets. Generated microscopy/natural-history footage is illustrative and is not a scientific recording. Stock retains its original natural colours.
+
 ## Batch 1 — complete — 16 October 2026
 
 - Status: delivered C01–C12 and S01–S06; no failed or skipped assets.
@@ -11,4 +23,3 @@
 - Substitutions/limitations: C04 uses nonlinguistic geometry instead of mathematical writing; C06 uses abstract phosphor noise instead of glyphs to honor the global no-text/no-UI rule. C08 is stylized exposed circuitry; literal bare-die geometry is approximate. Some shots favor cel shading, others practical macro textures.
 - Validation: complete decode check for every clip; codec, dimensions, pixel format, frame rate, 120-frame duration, no audio, faststart atom order, file sizes and still formats verified. Start/middle/end frames of all clips and the still contact sheet were visually inspected; C05's first lattice was also checked at 1.4 seconds. No visible writing, logos or signatures were observed in the accepted sampled frames. Credentials were checked out of all public files.
 
-Batch 2 is being prepared separately and will be added above this entry.

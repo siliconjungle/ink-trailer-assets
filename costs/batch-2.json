@@ -1,0 +1,125 @@
+{
+  "batch": 2,
+  "status": "in_progress",
+  "currency": "USD",
+  "basis": "Published-tariff estimates checked 2026-10-16; includes rejected successes and reserved estimate for pending renders; Pexels downloads are free. Not an invoice; excludes taxes and credits.",
+  "estimated_total_usd": 7.12,
+  "attempts": [
+    {
+      "asset_id": "B01",
+      "prediction_id": "6zxm7tbvb1rmy0d186vvsdvvcr",
+      "status": "delivered",
+      "source": "Replicate",
+      "model": "runwayml/gen-4.5",
+      "estimated_cost_usd": 0.6
+    },
+    {
+      "asset_id": "B03",
+      "prediction_id": "zravggvvcdrmt0d186vspxxcmg",
+      "status": "delivered",
+      "source": "Replicate",
+      "model": "runwayml/gen-4.5",
+      "estimated_cost_usd": 0.6
+    },
+    {
+      "asset_id": "B04",
+      "prediction_id": "vdek01kwgnrmt0d186vvc4y4vr",
+      "status": "delivered",
+      "source": "Replicate",
+      "model": "runwayml/gen-4.5",
+      "estimated_cost_usd": 0.6
+    },
+    {
+      "asset_id": "B05",
+      "prediction_id": "d3f69fc5z5rmw0d186wb4favg4",
+      "status": "delivered",
+      "source": "Replicate",
+      "model": "runwayml/gen-4.5",
+      "estimated_cost_usd": 0.6
+    },
+    {
+      "asset_id": "B06",
+      "prediction_id": "61akefp53xrmr0d186way6r7w4",
+      "status": "delivered",
+      "source": "Replicate",
+      "model": "runwayml/gen-4.5",
+      "estimated_cost_usd": 0.6
+    },
+    {
+      "asset_id": "B08",
+      "prediction_id": "5qn1a19az1rmr0d186wvcqn4t8",
+      "status": "delivered",
+      "source": "Replicate",
+      "model": "runwayml/gen-4.5",
+      "estimated_cost_usd": 0.6
+    },
+    {
+      "asset_id": "B09",
+      "prediction_id": "q57r1bgndnrmw0d186xbgfr9jc",
+      "status": "delivered",
+      "source": "Replicate",
+      "model": "runwayml/gen-4.5",
+      "estimated_cost_usd": 0.6
+    },
+    {
+      "asset_id": "P01",
+      "prediction_id": null,
+      "status": "delivered",
+      "source": "Pexels",
+      "model": null,
+      "estimated_cost_usd": 0
+    },
+    {
+      "asset_id": "P02",
+      "prediction_id": null,
+      "status": "delivered",
+      "source": "Pexels",
+      "model": null,
+      "estimated_cost_usd": 0
+    },
+    {
+      "asset_id": "P03",
+      "prediction_id": null,
+      "status": "delivered",
+      "source": "Pexels",
+      "model": null,
+      "estimated_cost_usd": 0
+    },
+    {
+      "asset_id": "P04",
+      "prediction_id": null,
+      "status": "delivered",
+      "source": "Pexels",
+      "model": null,
+      "estimated_cost_usd": 0
+    },
+    {
+      "asset_id": "B02",
+      "prediction_id": "pyw5rnvvb9rmt0d186vs2vbde0",
+      "status": "succeeded_but_rejected",
+      "estimated_cost_usd": 0.6,
+      "reason": "Initial network retracted into a central lump rather than spreading and retaining linked endpoints. Regenerated once with explicit growth/pruning timing and Kling 3.0 Pro."
+    },
+    {
+      "asset_id": "B02",
+      "prediction_id": "k1a03p66h5rmt0d186wt5x4nag",
+      "status": "succeeded",
+      "model": "kwaivgi/kling-v3-video",
+      "estimated_cost_usd": 1.12
+    },
+    {
+      "asset_id": "B07",
+      "prediction_id": "1wp29wz9q9rmr0d186w9e71560",
+      "status": "succeeded_but_rejected",
+      "estimated_cost_usd": 0.6,
+      "reason": "First render showed relatively close separate birds rather than a distant coherent murmuration. Regenerated once with explicit tiny-bird scale, wide framing, and collective cloud motion."
+    },
+    {
+      "asset_id": "B07",
+      "prediction_id": "qfhn20nkpsrmy0d186xrz0ykvg",
+      "status": "processing",
+      "model": "runwayml/gen-4.5",
+      "estimated_cost_usd": 0.6
+    }
+  ]
+}
