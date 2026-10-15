@@ -1,0 +1,162 @@
+{
+  "batch": 1,
+  "currency": "USD",
+  "basis": "Conservative estimates from Replicate published tariffs checked 2026-10-16; includes rejected successful generations; not an invoice; excludes tax and credits. Still output megapixels rounded up.",
+  "estimated_total_usd": 13.5,
+  "attempts": [
+    {
+      "asset_id": "C01",
+      "prediction_id": "tke7zzkhr1rmt0d186rsz9je64",
+      "status": "succeeded_but_rejected",
+      "estimated_cost_usd": 0.6,
+      "reason": "Ink tendrils rendered as literal straight circuit traces; regenerated with organic liquid diffusion and practical macro emphasis."
+    },
+    {
+      "asset_id": "C01",
+      "prediction_id": "4t6qra5wwxrmt0d186sts0c6zc",
+      "status": "delivered",
+      "model": "runwayml/gen-4.5",
+      "estimated_cost_usd": 0.6
+    },
+    {
+      "asset_id": "C02",
+      "prediction_id": "67c7jq3g15rmr0d186rsmn9bym",
+      "status": "delivered",
+      "model": "kwaivgi/kling-v3-video",
+      "estimated_cost_usd": 1.12
+    },
+    {
+      "asset_id": "C03",
+      "prediction_id": "gzj59fbj1srmt0d186rt1c6hx0",
+      "status": "delivered",
+      "model": "runwayml/gen-4.5",
+      "estimated_cost_usd": 0.6
+    },
+    {
+      "asset_id": "C04",
+      "prediction_id": "achzp5kg41rmt0d186rsz2hq0w",
+      "status": "delivered",
+      "model": "kwaivgi/kling-v3-video",
+      "estimated_cost_usd": 1.12
+    },
+    {
+      "asset_id": "C05",
+      "prediction_id": "sbdxjqz1chrmt0d186sa6kgtqc",
+      "status": "succeeded_but_rejected",
+      "estimated_cost_usd": 0.6,
+      "reason": "Rejected stylized capsule-like object with tiny label-like markings and incomplete lattice sequence; regenerated once with Kling 3.0 Pro and explicit liquid/lattice timing."
+    },
+    {
+      "asset_id": "C05",
+      "prediction_id": "2j5dg9v5mdrmr0d186tvtafpar",
+      "status": "delivered",
+      "model": "kwaivgi/kling-v3-video",
+      "estimated_cost_usd": 1.12
+    },
+    {
+      "asset_id": "C06",
+      "prediction_id": "etx5rs76qhrmw0d186saj0a7mc",
+      "status": "delivered",
+      "model": "runwayml/gen-4.5",
+      "estimated_cost_usd": 0.6
+    },
+    {
+      "asset_id": "C07",
+      "prediction_id": "7ww6m5w7nxrmr0d186st9n01s0",
+      "status": "delivered",
+      "model": "runwayml/gen-4.5",
+      "estimated_cost_usd": 0.6
+    },
+    {
+      "asset_id": "C08",
+      "prediction_id": "y6hz9vmbv5rmw0d186srtdztac",
+      "status": "succeeded_but_rejected",
+      "estimated_cost_usd": 0.6,
+      "reason": "Rejected faint identification-like marks and packaged-chip subject; regenerated once as practical macro of exposed unmarked silicon die."
+    },
+    {
+      "asset_id": "C08",
+      "prediction_id": "qw9vzagfesrmr0d186wtzgt0a8",
+      "status": "delivered",
+      "model": "runwayml/gen-4.5",
+      "estimated_cost_usd": 0.6
+    },
+    {
+      "asset_id": "C09",
+      "prediction_id": "0n7qya9np9rmr0d186tbpt3tqw",
+      "status": "succeeded_but_rejected",
+      "estimated_cost_usd": 0.6,
+      "reason": "Rejected small white signature-like marks at lower edge; regenerated once with Kling 3.0 Pro and practical macro/no-signature emphasis."
+    },
+    {
+      "asset_id": "C09",
+      "prediction_id": "2w7h55qy5srmy0d186ts9tttgr",
+      "status": "delivered",
+      "model": "kwaivgi/kling-v3-video",
+      "estimated_cost_usd": 1.12
+    },
+    {
+      "asset_id": "C10",
+      "prediction_id": "2ntfafjjkhrmw0d186tarxws2r",
+      "status": "delivered",
+      "model": "kwaivgi/kling-v3-video",
+      "estimated_cost_usd": 1.12
+    },
+    {
+      "asset_id": "C11",
+      "prediction_id": "cr1yk25pa5rmt0d186t8kqyxbw",
+      "status": "delivered",
+      "model": "kwaivgi/kling-v3-video",
+      "estimated_cost_usd": 1.12
+    },
+    {
+      "asset_id": "C12",
+      "prediction_id": "97ctympp3drmr0d186t9qcz714",
+      "status": "delivered",
+      "model": "runwayml/gen-4.5",
+      "estimated_cost_usd": 0.6
+    },
+    {
+      "asset_id": "S01",
+      "prediction_id": "eqfqkyaa5srmr0d186trj61zvc",
+      "status": "delivered",
+      "model": "black-forest-labs/flux-2-max",
+      "estimated_cost_usd": 0.13
+    },
+    {
+      "asset_id": "S02",
+      "prediction_id": "9npgyxnj2srmw0d186trkqe1vr",
+      "status": "delivered",
+      "model": "black-forest-labs/flux-2-max",
+      "estimated_cost_usd": 0.13
+    },
+    {
+      "asset_id": "S03",
+      "prediction_id": "jb5p4sgyyxrmr0d186v9zg6cbr",
+      "status": "delivered",
+      "model": "black-forest-labs/flux-2-max",
+      "estimated_cost_usd": 0.13
+    },
+    {
+      "asset_id": "S04",
+      "prediction_id": "mxhb21123xrmy0d186v9wvwtzc",
+      "status": "delivered",
+      "model": "black-forest-labs/flux-2-max",
+      "estimated_cost_usd": 0.13
+    },
+    {
+      "asset_id": "S05",
+      "prediction_id": "f3we7sbbp9rmr0d186v98gr9pm",
+      "status": "delivered",
+      "model": "black-forest-labs/flux-2-max",
+      "estimated_cost_usd": 0.13
+    },
+    {
+      "asset_id": "S06",
+      "prediction_id": "tvmyaww4vsrmw0d186v9hpgbg0",
+      "status": "delivered",
+      "model": "black-forest-labs/flux-2-max",
+      "estimated_cost_usd": 0.13
+    }
+  ]
+}
